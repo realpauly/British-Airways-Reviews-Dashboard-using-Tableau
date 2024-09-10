@@ -29,7 +29,7 @@ Geographic map showing ratings by country
 Aircraft-specific rating comparisons
 Filters for traveler type, seat type, and more
 
-![British Airways Review Dashboard](https://github.com/realpauly/British-Airways-Reviews-Dashboard-using-Tableau/blob/main/Tableau Project.png)
+![British Airways Review Dashboard](https://github.com/realpauly/British-Airways-Reviews-Dashboard-using-Tableau/blob/main/Tableau%20Project.png)
 
 
 ## Conclusion and Recommendation
