@@ -1,5 +1,5 @@
 # British Airways Reviews Data Dashboard
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/images/electrocat.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/realpauly/British-Airways-Reviews-Dashboard-using-Tableau/blob/main/review-flight.jpg)
 
 ## Introduction
 This project presents a data dashboard developed using Tableau to visualize customer reviews for British Airways. The dashboard analyzes various metrics such as overall ratings, cabin staff service, food, entertainment, and more, offering insights into customer experiences.
@@ -28,6 +28,9 @@ Time series chart displaying average overall ratings by month
 Geographic map showing ratings by country
 Aircraft-specific rating comparisons
 Filters for traveler type, seat type, and more
+
+![British Airways Review Dashboard](https://github.com/realpauly/British-Airways-Reviews-Dashboard-using-Tableau/blob/main/Tableau Project.png)
+
 
 ## Conclusion and Recommendation
 This analysis reveals distinct patterns in customer satisfaction across different aircraft and traveler categories. British Airways could focus on improving areas like entertainment and food, based on lower average ratings. Further analysis could explore how specific services impact customer loyalty.
